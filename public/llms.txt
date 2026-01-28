@@ -1,0 +1,53 @@
+# מוטי שוחט טיפול משנה חיים — Generative Engine Optimization Map
+
+> A בריאות נפש וטיפול רגשי business.
+
+---
+
+## Pages
+
+### Home
+https://-8452ef87.zappy5.app
+
+### Approach
+https://-8452ef87.zappy5.app/approach
+
+### About
+https://-8452ef87.zappy5.app/about
+
+### Contact
+https://-8452ef87.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8452ef87.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8452ef87.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8452ef87.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מוטי שוחט טיפול משנה חיים
+מוטי שוחט טיפול משנה חיים is a business in the בריאות נפש וטיפול רגשי industry.
+
+## Target Audience
+אנשים המחפשים טיפול רגשי, זוגות, הורים, ילדים ונוער, אנשים עם טראומות ופוסט טראומה
+
+## Industry
+בריאות נפש וטיפול רגשי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8452ef87.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8452ef87.zappy5.app/robots.txt
